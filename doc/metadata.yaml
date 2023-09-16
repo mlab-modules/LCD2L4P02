@@ -3,6 +3,7 @@ github_branch: LCD2L4P02A
 github_repo: LCD2L4P02
 github_url: https://github.com/mlab-modules/LCD2L4P02
 homepage: false
+image_title: doc/img/LCD2L4P02A_top_small.jpg
 images:
 - doc/img/LCD2L4P02A_Bot_small_noRX.jpg
 - doc/img/Piezo_Wires.jpg
