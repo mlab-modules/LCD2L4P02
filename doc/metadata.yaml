@@ -1,4 +1,4 @@
-description: ' Module with two-line LCD display (with Hitachi controller), with 4 push buttons and with the piezo element driven by 74HC04.'
+description: 'Module with LCD 2 line display, 4 buttons and piezo '
 github_branch: LCD2L4P02A
 github_repo: LCD2L4P02
 github_url: https://github.com/mlab-modules/LCD2L4P02
